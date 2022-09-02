@@ -1,1 +1,1 @@
-Display the cntents list of cd
+Script that changes the wd to user home
