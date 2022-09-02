@@ -1,1 +1,1 @@
-displays the comtent list of cd
+display all files including hidden files
