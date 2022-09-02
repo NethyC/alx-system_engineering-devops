@@ -1,1 +1,1 @@
-Script that prints absolute path name of cwd
+Display cureent directory contents in a long format
