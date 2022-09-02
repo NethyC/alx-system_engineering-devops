@@ -1,1 +1,1 @@
-Script that changes the working directory to user home directory
+displays the comtent list of cd
