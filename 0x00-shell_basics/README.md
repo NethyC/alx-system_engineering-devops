@@ -1,1 +1,1 @@
-Script that prints the absolute path name of  the cwd
+Display the cntents list of cd
