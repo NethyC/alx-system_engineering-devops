@@ -1,2 +1,2 @@
-#!/bin/bmsh
-cd ~ 
+#!/bin/bash
+cd ..
