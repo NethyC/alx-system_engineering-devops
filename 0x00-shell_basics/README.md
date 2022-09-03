@@ -1,1 +1,1 @@
-display long format user and group id
+display files with user and group id
