@@ -1,1 +1,1 @@
-display all files including hidden files
+first directory
