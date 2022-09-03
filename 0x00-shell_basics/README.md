@@ -1,1 +1,1 @@
-Script that changes the wd to user home
+display long format user and group id
