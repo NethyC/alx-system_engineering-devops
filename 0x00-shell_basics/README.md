@@ -1,1 +1,3 @@
-script that lists all files in long format
+<<<<<<< HEAD
+scrpit that lists all files including ../boot
+=======
