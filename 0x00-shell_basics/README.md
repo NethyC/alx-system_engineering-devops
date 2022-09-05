@@ -1,1 +1,1 @@
-script that deletes all files with ~ in cd
+script that creates directories
