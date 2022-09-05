@@ -1,1 +1,1 @@
-script that prints who am i
+script that changes owner the to the user
