@@ -1,1 +1,1 @@
-script that moves all files beginning with an uppercase letter
+script that deletes all files with ~ in cd
