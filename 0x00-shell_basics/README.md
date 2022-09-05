@@ -1,1 +1,1 @@
-script that lists cd parent directory boot
+script that copies all html files to parent directory
