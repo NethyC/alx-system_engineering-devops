@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-scrpit that lists all files including ../boot
-=======
+list all the files and directories separared by commas
