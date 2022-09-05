@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-scrpit that lists all files including ../boot
-=======
+Script that prints type of file
