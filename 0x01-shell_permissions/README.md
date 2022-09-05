@@ -1,1 +1,1 @@
-A script that switches the current user to user betty
+script that prints who am i
