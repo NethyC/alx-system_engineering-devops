@@ -1,1 +1,1 @@
-script that copies all html files to parent directory
+script that moves all files beginning with an uppercase letter
