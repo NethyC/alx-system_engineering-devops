@@ -1,1 +1,1 @@
-script that creates symbolic link
+script that lists cd parent directory boot
